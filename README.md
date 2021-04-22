@@ -1,7 +1,4 @@
 # apellerite.github.io
-## My personal website
-
-This is starting out as a project while I have some free time, but I hope to expand it into a blog, portfolio, or sandbox space to try out new languages or techniques.
 
 ## Project setup
 ```
@@ -16,6 +13,11 @@ npm run serve
 ### Compiles and minifies for production
 ```
 npm run build
+```
+
+### Run your unit tests
+```
+npm run test:unit
 ```
 
 ### Lints and fixes files
